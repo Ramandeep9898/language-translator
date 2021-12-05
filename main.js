@@ -4,6 +4,7 @@ const textAreaInp = document.querySelector('#textarea-input');
 const textAreaOut = document.querySelector('#textarea-output');
 function errHandler(err){
     alert('something went worng please try again later..')
+    console.log("hello")
 }
 
 
